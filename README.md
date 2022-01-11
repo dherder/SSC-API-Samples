@@ -53,20 +53,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
-<!-- CONTACT -->
-## Contact
-
-your_name - [@twitter_handle](https://twitter.com/twitter_handle) - email
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
+Contributors:
+
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
